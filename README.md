@@ -1,2 +1,3 @@
 # hello-world
-hello-world demo
+Hello Dear Diary!
+I like noodles, coffee and apsta, thats's what gets my day going !!!!
